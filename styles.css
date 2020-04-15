@@ -1,0 +1,57 @@
+.row-header{
+    margin:0px auto;
+    padding:0px auto;
+}
+.row-content{
+    margin: 0px auto;
+    padding: 0px auto;
+    border-bottom: 1px ridge;
+    min-height: 400px;
+}
+footer{
+    background-color: #b0b8bb;
+    margin: 0px auto;
+    padding: 20px 0px 20px 0px;
+}
+.jumbotron{
+    padding: 70px 30px 70px 30px;
+    margin:0px auto;
+    color:floralwhite;
+    background-color: #13524e;
+    padding: 8px ;
+    
+}
+.address{
+    font-size: 80%;
+    margin: 0px;
+    color: rgb(29, 26, 26);
+}
+body{
+    background-image: img/bac2.jpg;
+}
+#im{
+    height: 42%;
+    width: 20%;
+    margin-left: 264px;
+    opacity: 0.6;
+}
+#im:hover{
+    display: inline;
+    width: 25%;
+    height: auto;
+    opacity: 1;
+}
+
+
+.carousalimg{
+    border-radius: 10px;
+    border-color: #13524e;
+    box-sizing: border-box;
+    box-shadow: 5px 10px;
+}
+.h2{
+    font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+}
+#car{
+    height: 80%;
+}
